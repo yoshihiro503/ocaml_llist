@@ -1,4 +1,2 @@
-ocaml_llist
-===========
 
-lazy list module for ocaml
+#moved to [ocaml_util](http://github.com/yoshihiro503/ocaml_util/)
